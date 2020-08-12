@@ -1,5 +1,5 @@
 function ubicacion(){
-    var texto1 = document.getElementById("lat");
+    var texto1 = document.getElementById("lat");    
     var texto2 = document.getElementById("lon");
  
 	if(navigator.geolocation){
